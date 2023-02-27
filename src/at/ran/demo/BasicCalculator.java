@@ -6,6 +6,7 @@ public class BasicCalculator {
     }
 
 
+
     public double divide(int a, int b){
 
             return a/b;
